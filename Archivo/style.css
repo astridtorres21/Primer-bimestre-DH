@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+form {
+    background-color: #00669F;
+    display: flex;
+    flex-direction: column;
+    position: center;
+    color: #ffffff;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+h1 p{
+    text-align: center;
+}
+
+.linea1{
+    display: flex;
+}
